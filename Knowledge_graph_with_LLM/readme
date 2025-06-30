@@ -1,0 +1,1 @@
+This project involves scraping new data and creating RDF triple stores to model and interact with a Neo4j graph database. It integrates an NLP library in Python to interact with the OpenAI API, enabling intelligent querying and semantic search over the Neo4j database.
